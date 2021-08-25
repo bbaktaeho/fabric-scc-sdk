@@ -27,6 +27,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
+    "@grpc/grpc-js": "^1.3.7",
     "fabric-ca-client": "^2.2.8",
     "fabric-gateway": "^0.1.1-dev.20210325.1.0",
     "fabric-network": "^2.2.8"
